@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andrewghaddad
 - 👀 I’m interested in product design, development, and data analyrtics
 - 🌱 I’m currently learning Vue.js and MySQL
-- 📫 You can reach me at andrew.gh@rutgers.edu or www.andrewghaddad.com
+- 📫 You can reach me at andrewghaddad@outlook.com or www.andrewghaddad.com
 -
 
 <!---
